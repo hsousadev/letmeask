@@ -1,6 +1,6 @@
-**[BR]** Aplicação da NLW#05 da Rocketseat. Desenvolvida com React + Typescript. Plataforma respostas em real-time.
+**[BR]** Aplicação da NLW#05 da Rocketseat. Desenvolvida com React + Typescript. Plataforma de perguntas e respostas em real-time.
 
-**[ENG]** Application of Rocketseat's NLW#05. Developed with React + Typescript. Real-time answers platform.
+**[ENG]** Application of Rocketseat's NLW#05. Developed with React + Typescript. Real-time question and answer platform.
 
 ***App Finished*** ✔️
 
